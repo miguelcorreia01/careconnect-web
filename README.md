@@ -2,15 +2,25 @@
 # CareConnect 
 
 ## Table of Contents
-- [Setup](#setup)
-- [Key Features](#key-features)
+- [Project Description](#project-description)
 - [Technical Stack & Architecture](#technical-stack--architecture)
+- [Key Features](#key-features)
+- [Setup](#setup)
 
 ## Project Description
 
 CareConnect is a cross-platform application developed using Flutter to provide seamless elderly care support across mobile and web devices. The app enables older adults, family members, and professional caregivers to communicate and monitor daily health activities, medication schedules, and wellness metrics in real-time. Critical alerts ensure timely responses to emergencies and missed tasks.
 
 Built with Flutter’s flexible UI toolkit, CareConnect offers a consistent and responsive user experience on Android, iOS, and web platforms, while maintaining a multi-role system tailored for different users.
+
+
+## Technical Stack & Architecture
+
+- **Framework:** Flutter (Dart)
+- **Backend & Database:** Firebase
+  - Firebase Authentication for secure multi-role login
+  - Cloud Firestore for real-time NoSQL database
+  - Firebase Storage for user images
 
 ## Key Features
 
@@ -39,14 +49,6 @@ Built with Flutter’s flexible UI toolkit, CareConnect offers a consistent and 
 - Visualize platform activity with user stats by role.
 - Search, remove, or promote user accounts.
 - Monitor overall user distribution and system usage.
-
-## Technical Stack & Architecture
-
-- **Framework:** Flutter (Dart)
-- **Backend & Database:** Firebase
-  - Firebase Authentication for secure multi-role login
-  - Cloud Firestore for real-time NoSQL database
-  - Firebase Storage for user images
 
 
 ## Setup
