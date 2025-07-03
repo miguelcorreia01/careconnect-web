@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [Technical Stack & Architecture](#technical-stack--architecture)
+- [Technical Stack](#technical-stack)
 - [Key Features](#key-features)
 - [Setup](#setup)
 
@@ -14,7 +14,7 @@ CareConnect is a cross-platform application developed using Flutter to provide s
 Built with Flutter’s flexible UI toolkit, CareConnect offers a consistent and responsive user experience on Android, iOS, and web platforms, while maintaining a multi-role system tailored for different users.
 
 
-## Technical Stack & Architecture
+## Technical Stack
 
 - **Framework:** Flutter (Dart)
 - **Backend & Database:** Firebase
