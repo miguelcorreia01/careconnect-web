@@ -9,10 +9,7 @@
 
 ## Project Description
 
-CareConnect is a cross-platform application developed using Flutter to provide seamless elderly care support across mobile and web devices. The app enables older adults, family members, and professional caregivers to communicate and monitor daily health activities, medication schedules, and wellness metrics in real-time. Critical alerts ensure timely responses to emergencies and missed tasks.
-
-Built with Flutter’s flexible UI toolkit, CareConnect offers a consistent and responsive user experience on Android, iOS, and web platforms, while maintaining a multi-role system tailored for different users.
-
+CareConnect is a web application developed using Flutter to provide seamless elderly care support. The app enables older adults, family members, and professional caregivers to communicate and monitor daily health activities, medication schedules, and wellness metrics in real-time. Critical alerts ensure timely responses to emergencies and missed tasks.
 
 ## Technical Stack
 
