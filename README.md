@@ -56,8 +56,8 @@ Built with Flutter’s flexible UI toolkit, CareConnect offers a consistent and 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourflutterrepo.git
-    cd yourflutterrepo
+    git clone https://github.com/miguelcorreia01/careconnect-web.git
+    cd careconnect-web
     ```
 
 2. Create a Firebase project and add a Web app.
